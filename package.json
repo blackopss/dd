@@ -8,6 +8,7 @@
     "ffmpeg-binaries": "^3.2.2-3",
     "moment-duration-format": "^2.2.2",
     "node-opus": "^0.3.0",
+    "snekfetch": "^4.0.4",
     "simple-youtube-api": "^5.0.2",
     "sqlite": "^2.9.2",
     "ytdl-core": "^0.20.4"
