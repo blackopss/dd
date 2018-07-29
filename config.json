@@ -1,0 +1,10 @@
+{
+  "ytapikey": "YOUTUBE API KEY",
+  "defaultSettings": {
+    "prefix": ".",
+    "ratelimit": false,
+    "djonly": false,
+    "djrole": "dj",
+    "maxqueuelength": 20
+  }
+}
