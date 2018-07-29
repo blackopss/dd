@@ -1,5 +1,6 @@
 {
   "ytapikey": "YOUTUBE API KEY",
+  "ownerid": "431150885549113344",
   "defaultSettings": {
     "prefix": ".",
     "ratelimit": false,
